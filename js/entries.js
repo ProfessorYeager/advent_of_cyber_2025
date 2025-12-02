@@ -2,7 +2,7 @@ const journalEntries = [
     {
         id: 'day-01',
         title: 'Day 1: Linux CLI - Shells Bells',
-        date: '2025-12-01',
+        date: '2025-12-01T12:00:00',
         excerpt: 'Walkthrough for Day 1: Linux CLI - Shells Bells.',
         tags: ['TryHackMe', 'AdventOfCyber', 'Linux', 'CLI'],
         file: 'walkthroughs/day-01.md',
@@ -11,7 +11,7 @@ const journalEntries = [
     {
         id: 'day-02',
         title: 'Day 2: Phishing - Merry Clickmas',
-        date: '2025-12-02',
+        date: '2025-12-02T12:00:00',
         excerpt: 'Check back soon! This walkthrough is coming up.',
         tags: ['TryHackMe', 'AdventOfCyber', 'Phishing'],
         file: 'walkthroughs/day-02.md',
@@ -20,7 +20,7 @@ const journalEntries = [
     {
         id: 'day-03',
         title: 'Day 3: Splunk Basics - Did you SIEM?',
-        date: '2025-12-03',
+        date: '2025-12-03T12:00:00',
         excerpt: 'Check back soon! This walkthrough is coming up.',
         tags: ['TryHackMe', 'AdventOfCyber', 'Splunk', 'SIEM'],
         file: 'walkthroughs/day-03.md',
@@ -29,7 +29,7 @@ const journalEntries = [
     {
         id: 'day-04',
         title: 'Day 4: AI in Security - old sAInt nick',
-        date: '2025-12-04',
+        date: '2025-12-04T12:00:00',
         excerpt: 'Check back soon! This walkthrough is coming up.',
         tags: ['TryHackMe', 'AdventOfCyber', 'AI', 'Security'],
         file: 'walkthroughs/day-04.md',
@@ -38,7 +38,7 @@ const journalEntries = [
     {
         id: 'day-05',
         title: 'Day 5: IDOR - Santa\'s Little IDOR',
-        date: '2025-12-05',
+        date: '2025-12-05T12:00:00',
         excerpt: 'Check back soon! This walkthrough is coming up.',
         tags: ['TryHackMe', 'AdventOfCyber', 'IDOR', 'Web'],
         file: 'walkthroughs/day-05.md',
@@ -47,7 +47,7 @@ const journalEntries = [
     {
         id: 'day-06',
         title: 'Day 6: Malware Analysis - Egg-xecutable',
-        date: '2025-12-06',
+        date: '2025-12-06T12:00:00',
         excerpt: 'Check back soon! This walkthrough is coming up.',
         tags: ['TryHackMe', 'AdventOfCyber', 'Malware', 'Analysis'],
         file: 'walkthroughs/day-06.md',
@@ -56,7 +56,7 @@ const journalEntries = [
     {
         id: 'day-07',
         title: 'Day 7: Network Discovery - Scan-ta Clause',
-        date: '2025-12-07',
+        date: '2025-12-07T12:00:00',
         excerpt: 'Check back soon! This walkthrough is coming up.',
         tags: ['TryHackMe', 'AdventOfCyber', 'Network', 'Nmap'],
         file: 'walkthroughs/day-07.md',
