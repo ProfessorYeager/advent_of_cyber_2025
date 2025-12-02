@@ -1,4 +1,4 @@
-# Day 1: Advent of Cyber 2025
+# Day 1: Linux CLI - Shells Bells
 
 ## Introduction
 Welcome to the first day of the Advent of Cyber 2025! In this challenge, we explore...
