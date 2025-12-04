@@ -12,7 +12,7 @@ const journalEntries = [
         id: 'day-02',
         title: 'Day 2: Phishing - Merry Clickmas',
         date: '2025-12-02T12:00:00',
-        excerpt: 'Check back soon! This walkthrough is coming up.',
+        excerpt: 'Walkthrough for Day 2: Phishing - Merry Clickmas. Learn about social engineering and phishing attacks.',
         tags: ['TryHackMe', 'AdventOfCyber', 'Phishing'],
         file: 'walkthroughs/day-02.md',
         image: 'https://images.unsplash.com/photo-1563986768609-322da13575f3?q=80&w=1000&auto=format&fit=crop' // Phishing/Email
@@ -21,7 +21,7 @@ const journalEntries = [
         id: 'day-03',
         title: 'Day 3: Splunk Basics - Did you SIEM?',
         date: '2025-12-03T12:00:00',
-        excerpt: 'Check back soon! This walkthrough is coming up.',
+        excerpt: 'Walkthrough for Day 3: Splunk Basics. Investigate a ransomware attack using Splunk.',
         tags: ['TryHackMe', 'AdventOfCyber', 'Splunk', 'SIEM'],
         file: 'walkthroughs/day-03.md',
         image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1000&auto=format&fit=crop' // Data/Analytics
