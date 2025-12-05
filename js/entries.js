@@ -30,7 +30,7 @@ const journalEntries = [
         id: 'day-04',
         title: 'Day 4: AI in Security - old sAInt nick',
         date: '2025-12-04T12:00:00',
-        excerpt: 'Check back soon! This walkthrough is coming up.',
+        excerpt: 'Walkthrough for Day 4: AI in Security. Use AI to generate exploits, analyze logs, and review code.',
         tags: ['TryHackMe', 'AdventOfCyber', 'AI', 'Security'],
         file: 'walkthroughs/day-04.md',
         image: 'https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1000&auto=format&fit=crop' // AI/Robot
