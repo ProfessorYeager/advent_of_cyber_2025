@@ -39,7 +39,7 @@ const journalEntries = [
         id: 'day-05',
         title: 'Day 5: IDOR - Santa\'s Little IDOR',
         date: '2025-12-05T12:00:00',
-        excerpt: 'Check back soon! This walkthrough is coming up.',
+        excerpt: 'Walkthrough for Day 5: IDOR. Learn to spot and exploit Insecure Direct Object References to access unauthorized data.',
         tags: ['TryHackMe', 'AdventOfCyber', 'IDOR', 'Web'],
         file: 'walkthroughs/day-05.md',
         image: 'https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?q=80&w=1000&auto=format&fit=crop' // Web/Code
