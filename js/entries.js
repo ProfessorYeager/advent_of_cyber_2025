@@ -48,7 +48,7 @@ const journalEntries = [
         id: 'day-06',
         title: 'Day 6: Malware Analysis - Egg-xecutable',
         date: '2025-12-06T12:00:00',
-        excerpt: 'Check back soon! This walkthrough is coming up.',
+        excerpt: 'Walkthrough for Day 6: Malware Analysis. Learn static and dynamic analysis with PeStudio, Regshot, and ProcMon.',
         tags: ['TryHackMe', 'AdventOfCyber', 'Malware', 'Analysis'],
         file: 'walkthroughs/day-06.md',
         image: 'https://images.unsplash.com/photo-1589652717521-10c0d092dea9?q=80&w=1000&auto=format&fit=crop' // Malware/Virus
