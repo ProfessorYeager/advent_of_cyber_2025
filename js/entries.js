@@ -57,7 +57,7 @@ const journalEntries = [
         id: 'day-07',
         title: 'Day 7: Network Discovery - Scan-ta Clause',
         date: '2025-12-07T12:00:00',
-        excerpt: 'Check back soon! This walkthrough is coming up.',
+        excerpt: 'Walkthrough for Day 7: Network Scanning. Discover hidden services using Nmap, Netcat, and Dig.',
         tags: ['TryHackMe', 'AdventOfCyber', 'Network', 'Nmap'],
         file: 'walkthroughs/day-07.md',
         image: 'https://images.unsplash.com/photo-1544197150-b99a580bbcbf?q=80&w=1000&auto=format&fit=crop' // Network/Server
